@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fero1394/Async-landing/issues"
   },
-  "homepage": "https://github.com/fero1394/Async-landing#readme"
+  "homepage": "https://github.com/fero1394/Async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
